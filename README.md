@@ -1,2 +1,2 @@
 # Pricing-Plan
-pricing plan page using html and css
+Pricing plan page using Html and CSS
